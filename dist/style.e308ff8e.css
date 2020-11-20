@@ -24,7 +24,7 @@ img {
 }
 /* style */
 body {
-  background-image: url(image/33.jpg);
+  background-image: url(/33.3e6f6393.jpg);
   min-width: 100vw;
   min-height: 100vh;
 
@@ -38,7 +38,7 @@ body {
     margin: 60px 0 100px;
   }
   body {
-    background-image: url(image/2.jpg);
+    background-image: url(/2.95899076.jpg);
     min-width: 100vw;
     min-height: 100vh;
 
@@ -161,3 +161,6 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
